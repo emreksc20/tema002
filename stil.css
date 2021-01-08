@@ -1,0 +1,475 @@
+*{
+box-sizing:border-box;	
+	}
+
+body{
+	margin:0px;
+	padding:0px;
+	background-color:#ede0ff;
+	
+	}
+.enust{
+	margin-left:180px;
+	width:100%;
+	height:50px;
+
+	}	
+h1{
+	 
+    line-height: 50px;
+    font-size: 40px;
+    margin-top: 0px;
+	}
+span {
+    color: #E61F1F;
+}	
+.menu{
+	width:100%;
+	height:50px;
+	background-color:#F00;
+	
+	}
+.menu ul{
+	width:650px;
+	height:50px;
+	margin-left:100px;
+	line-height:50px;
+	}	
+.menu ul li{
+	list-style-type:none;
+	float:left;
+	margin:0;
+	padding:0;
+	}
+.menu ul li a{
+	display:block;
+	text-align:center;
+	width:120px;
+	height:50px;
+	line-height:50px;
+	text-decoration:none;
+	color:#FFF;
+	text-align:center;
+	}
+.menu ul li a:hover{
+	
+	opacity:0.6;
+	}	
+.menu ul li a i{
+	margin-left:50px;
+}
+	
+.sil{
+	clear:both;
+	}	
+.banner{
+	margin-top:20px;
+	}	
+	
+	
+	
+.kucukkutu1{
+	width:90px;
+	height:10px;
+	background-color:#F00;
+	float:left;
+	margin-top:-5px;
+
+	}	
+		
+.kucukkutu{
+	width:81px;
+	height:10px;
+	background-color:#666;
+	float:left;
+	margin-top:-5px;
+	margin-left:6px;
+	}	
+	
+.sil{
+	clear:both;
+	}
+		
+.sayfaorta{
+	width:960px;
+	height:auto;
+	margin:0 auto;
+	}
+.kısakutu{
+	width:960px;
+	height:100px;
+	background-color:#FFF;
+	margin-top:20px;
+	margin:0 auto;
+	}		
+h3{
+	color:#000;
+	margin:20px;
+	padding-top:10px;
+	}	
+span{
+	color:#F00;
+	margin-right:10px;
+
+	}	
+#kısakututext{
+	margin-left:30px;
+	}	
+.ana{
+    width: 960px;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#kutu1 {
+    width: 470px;
+    height: 280px;
+    background-color: white;
+    float: left;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+
+#kutu2 {
+    width: 470px;
+    height: 280px;
+    background-color: white;
+    float: right;
+    margin-bottom: 25px;
+}
+
+#kutu3 {
+    width: 470px;
+    height: 280px;
+    background-color: white;
+    float: left;
+    border-radius: 5px;
+ 
+}
+
+#kutu4 {
+    width: 470px;
+    height: 280px;
+    background-color: white;
+    float: right;
+    border-radius: 5px;
+  
+}
+.ana h3{
+	font-weight:bold;
+	padding:5px;
+	margin-left:5px;
+	}
+.ana p{
+	margin-left:5px;
+	}	
+.ana a{
+	color:#F00;
+	text-decoration:none;
+	}
+	
+.sil{
+	clear:both;
+	}	
+footer{
+	width:100%;
+	height:50px;
+	line-height:50px;
+	background-color:#999;
+	text-align:center;
+	margin-top:15px;
+	
+	}
+footer i{
+	float:right;
+	padding:5px;
+	margin-top:10px;
+	line-height:50px;
+	}	
+		
+		
+.iletisimbanner{
+	background-image:url(img/iletisimbanner.jpg);
+	width:960px;
+	height:200px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin-top:10px;
+	}
+#iletisimkutu{
+	width:100px;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	padding-top:120px;
+	}
+#iletisimkutu p{
+	width:100px;
+	height:50px;
+	color:#FFF;
+	background-color:#000;
+	opacity:0.4;
+	}		
+.sayfaorta1{
+	width:960px;
+	height:950px;
+	background-color:#FFF;
+	margin:0 auto;
+	}
+.adres{
+	width:450px;
+	height:400px;
+	padding:20px;
+	margin:20px;
+	float:left;
+	}
+.iletisim{
+	width:450px;
+	height:400px;
+	float:left;
+	margin-top:50px;
+	margin-left:20px;
+	}
+
+.iletisim input{
+	background-color:#D1DBBD;
+	border:none;
+	width:300px;
+	height:50px;
+	color:#000;
+	padding-left:3px;
+	line-height:50px;
+	margin-top:10px;
+	
+	}
+.iletisim textarea{
+	background-color:#D1DBBD;
+	border:none;
+	width:300px;
+	height:100px;
+	color:#000;
+	padding-left:3px;
+	line-height:50px;
+	margin-top:10px;
+	
+	}
+.kaydet input{
+	background-color:#333;
+	color:#FFF;
+	float:left;
+	width:100px;
+	margin-left:30px;
+	}	
+			
+.sil{
+	clear:both;
+	}
+.harita{
+	
+	width:960px;
+	height:350px;
+	}	
+			
+.hakkimizdaana{
+	width:960px;
+	height:auto;
+	background-color:#FFF;
+	}	
+.hakkimizdabanner{
+	background-image:url(img/hakkimizdabanner.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	width:960px;
+	height:200px;
+	margin-top:10px;
+	
+	
+		}
+.hakkimizdabanner h4{
+	color:#FFF;
+	width:150px;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	background-color:#000;
+    margin-top:120px;
+	margin-left:20px;
+	opacity:0.6;
+	}
+.hakkimizdatext{
+	padding:10px;
+	text-align:justify;
+	}
+
+.araçorta{
+	width:960px;
+	height:auto;
+	margin:0 auto;
+	background-color:#FFF;
+	}	
+	
+.araçbanner{
+		background-image:url(img/ara%C3%A7banner.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	width:960px;
+	height:200px;
+	margin-top:10px;
+	}
+	
+	
+.araçbanner h4{
+	color:#FFF;
+	width:150px;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	background-color:#000;
+    margin-top:120px;
+	margin-left:20px;
+	opacity:0.6;
+	font-size:20px;
+	
+	}
+
+.araçkutu{
+	width:470px;
+	height:300px;
+	background-color:#999;
+	margin-top:10px;
+	float:left;
+	box-sizing:border-box;
+	margin-left:5px;
+	border-radius:5px;
+	margin-top:10px;
+	}	
+.araçkutu h3{
+	width:470px; 
+	height:30px;
+	background-color:#990;
+	margin:0;
+	margin-top:-5px;
+	text-align:center;
+	line-height:15px;
+	color:#FFF;
+	}
+.araçkutu p{
+	color:#FFF;
+	padding:5px;
+	}		
+.araçkutu1{
+	width:470px;
+	height:300px;
+	background-color:#999;
+	margin-top:10px;
+	margin-left:10px;
+	float:right;
+	box-sizing:border-box;
+	margin-right:5px;
+	}
+.araçkutu1 h3{
+	width:470px; 
+	height:30px;
+	background-color:#990;
+	margin:0;
+	margin-top:-5px;
+	text-align:center;
+	line-height:15px;
+	color:#FFF;
+	}
+.araçkutu1 p{
+	color:#FFF;
+	padding:5px;
+	}		
+.resimaraç:hover{
+	opacity:0.6;
+	transition:0.6s;
+	}		
+.sil{
+	clear:both;
+	}		
+.projebanner{
+	background-image:url(img/projebanner.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	width:960px;
+	height:200px;
+	margin-top:10px;
+	}
+	
+	
+.projebanner h4{
+	color:#FFF;
+	width:150px;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	background-color:#000;
+    margin-top:120px;
+	margin-left:20px;
+	opacity:0.6;
+	font-size:20px;
+	
+	}
+.projee{
+	width:960px;
+	height:50px;
+	background-color:#999;
+	color:#FFF;
+	margin-top:10px;
+	text-align:center;
+	line-height:50px;
+	}	
+.projekutu{
+	width:470px;
+	height:300px;
+	background-color:#999;
+	margin-top:10px;
+	float:left;
+	box-sizing:border-box;
+	margin-left:5px;
+	border-radius:5px;
+	}	
+.projekutu h3{
+	width:470px; 
+	height:30px;
+	background-color:#C99297;
+	margin:0;
+	margin-top:-5px;
+	text-align:center;
+	line-height:15px;
+	color:#FFF;
+	}
+.projekutu p{
+	color:#FFF;
+	padding:5px;
+	}		
+.projekutu1{
+	width:470px;
+	height:300px;
+	background-color:#999;
+	margin-top:10px;
+	margin-left:10px;
+	float:right;
+	box-sizing:border-box;
+	margin-right:5px;
+	}
+.projekutu1 h3{
+	width:470px; 
+	height:30px;
+	background-color:#C99297;
+	margin:0;
+	margin-top:-5px;
+	text-align:center;
+	line-height:15px;
+	color:#FFF;
+	}
+.projekutu1 p{
+	color:#FFF;
+	padding:5px;
+	}
+.resim:hover{
+	opacity:0.6;
+	transition:0.6s;
+	}			
